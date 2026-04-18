@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Заметочки/Без названия.md",
+                "file": "template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "template"
             }
           }
         ],
@@ -189,9 +189,10 @@
   },
   "active": "f748c630289bee15",
   "lastOpenFiles": [
+    "Заметочки/Без названия.md",
+    "template.md",
     "index.md",
     "Заметочки/test.md",
-    "Заметочки/Без названия.md",
     "Заметочки",
     "test",
     "Без названия/test.md",
