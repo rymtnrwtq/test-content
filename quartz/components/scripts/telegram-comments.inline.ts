@@ -7,6 +7,7 @@ function loadTelegramWidget(container: HTMLElement) {
   const color = container.dataset.color
 
   const isDark = document.documentElement.getAttribute("saved-theme") === "dark"
+  const themeColor = isDark ? "7b97aa" : "284b63"
 
   const script = document.createElement("script")
   script.async = true
@@ -15,7 +16,7 @@ function loadTelegramWidget(container: HTMLElement) {
   script.setAttribute("data-comments-limit", limit)
   script.setAttribute("data-colorful", "1")
   if (isDark) script.setAttribute("data-dark", "1")
-  if (color) script.setAttribute("data-color", color)
+  script.setAttribute("data-color", color ?? themeColor)
 
   container.appendChild(script)
 }

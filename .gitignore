@@ -1,3 +1,15 @@
 node_modules
 public
 .quartz-cache
+
+# System
+.DS_Store
+Thumbs.db
+
+# Obsidian plugins & system
+content/.obsidian/plugins/
+content/.obsidian/workspace.json
+content/.obsidian/workspace-mobile.json
+content/.obsidian/workspaces.json
+content/.obsidian/file-recovery/
+content/.obsidian/themes/
