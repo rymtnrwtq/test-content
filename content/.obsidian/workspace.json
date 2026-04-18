@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Без названия/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "evnjkev.md",
+                "file": "Без названия/test.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "evnjkev"
+              "title": "test"
             }
           }
         ],
@@ -187,12 +187,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a91bb0c4f97a8899",
+  "active": "34c17633a9e72fdd",
   "lastOpenFiles": [
-    "nijevijefijnve.md",
-    "evnjkev.md",
-    "test.md",
-    "index.md",
+    "Без названия/evnjkev.md",
+    "Без названия",
+    "Без названия/nijevijefijnve.md",
+    "Без названия/test.md",
+    "Без названия/index.md",
     "Inbox/Без названия 1.md",
     "2 GTD/Daily/2026/апрель/2026-04-17.md",
     "Inbox/Без названия 2222.md",
@@ -214,7 +215,6 @@
     "1 Content/Events/Альфа конфа 2025 Новосибирск/Владимир Верхошинский/Завоевывая авторитет, расширяйте сеть контактов.md",
     "1 Content/Events/Альфа конфа 2025 Новосибирск/Владимир Верхошинский/В дорогих машинах разбирается кто не может себе их купить.md",
     "1 Content/Events/Альфа конфа 2025 Новосибирск/Владимир Верхошинский/Будьте заметны.md",
-    "1 Content/Events/Онлайн встреча Сметнёв/Накрутка отзывов.md",
     "2 GTD/Daily/2026/апрель",
     "1 Content/Events/Третья встреча поколение Марей",
     "3 Data/1 Project/Поколение",
@@ -224,7 +224,6 @@
     "3 Data/People/Acquaintance",
     "3 Data/People/Figure",
     "3 Data/People/Luminary",
-    "3 Data/Address/Москва",
     "Files/Pasted image 20250825150950.png",
     "Files/Pasted image 20250805083314.png",
     "Files/Pasted image 20250628154622.png",

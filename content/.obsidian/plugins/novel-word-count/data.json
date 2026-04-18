@@ -67,37 +67,7 @@
     "debugMode": false
   },
   "cachedCounts": {
-    "index.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 17,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.056666666666666664,
-      "characterCount": 114,
-      "nonWhitespaceCharacterCount": 93,
-      "newlineCount": 6,
-      "readingTimeInMinutes": 0.06415094339622641,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1776495571384,
-      "modifiedDate": 1776495571384,
-      "sizeInBytes": 133,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.056666666666666664,
-        "wordCount": 17,
-        "characterCount": 114,
-        "nonWhitespaceCharacterCount": 93,
-        "newlineCount": 6
-      },
-      "frontmatter": {
-        "title": "Home"
-      }
-    },
-    "test.md": {
+    "Без названия/test.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -124,7 +94,64 @@
         "newlineCount": 0
       }
     },
-    "nijevijefijnve.md": {
+    "Без названия/evnjkev.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 7,
+      "newlineCount": 1,
+      "readingTimeInMinutes": 0.007547169811320755,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1776496508445,
+      "modifiedDate": 1776496512449,
+      "sizeInBytes": 8,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Без названия/index.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 17,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.056666666666666664,
+      "characterCount": 114,
+      "nonWhitespaceCharacterCount": 93,
+      "newlineCount": 6,
+      "readingTimeInMinutes": 0.06415094339622641,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1776495571384,
+      "modifiedDate": 1776495571384,
+      "sizeInBytes": 133,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "title": "Home"
+      }
+    },
+    "Без названия/nijevijefijnve.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -142,33 +169,6 @@
       "createdDate": 1776496319312,
       "modifiedDate": 1776496323800,
       "sizeInBytes": 12,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "evnjkev.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1776496508445,
-      "modifiedDate": 1776496508445,
-      "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
