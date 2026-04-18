@@ -11,14 +11,15 @@
             "id": "a91bb0c4f97a8899",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "content/.obsidian/plugins/novel-word-count/data.json",
-                "bFile": "content/.obsidian/plugins/novel-word-count/data.json",
-                "aRef": ""
+                "file": "template.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "diff",
-              "title": "Diff: data.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "template"
             }
           },
           {
