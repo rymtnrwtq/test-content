@@ -2,6 +2,8 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import { classNames } from "../util/lang"
 // @ts-ignore
 import script from "./scripts/comments.inline"
+// @ts-ignore
+import telegramScript from "./scripts/telegram-comments.inline"
 
 type TelegramOptions = {
   provider: "telegram"
@@ -62,15 +64,12 @@ export default ((opts: Options) => {
       const color = opts.options?.color
 
       return (
-        <div class={classNames(displayClass, "telegram-comments")}>
-          <script
-            async
-            src="https://telegram.org/js/telegram-widget.js?23"
-            data-telegram-discussion={discussionId}
-            data-comments-limit={String(limit)}
-            {...(color ? { "data-color": color } : {})}
-          ></script>
-        </div>
+        <div
+          class={classNames(displayClass, "telegram-comments-widget")}
+          data-discussion={discussionId}
+          data-limit={String(limit)}
+          {...(color ? { "data-color": color } : {})}
+        ></div>
       )
     }
 
@@ -97,6 +96,8 @@ export default ((opts: Options) => {
 
   if (opts.provider === "giscus") {
     Comments.afterDOMLoaded = script
+  } else if (opts.provider === "telegram") {
+    Comments.afterDOMLoaded = telegramScript
   }
 
   return Comments

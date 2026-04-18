@@ -225,9 +225,9 @@
       "aliases": [
         "другое-название"
       ],
-      "createdDate": 1776497235601,
-      "modifiedDate": 1776497235601,
-      "sizeInBytes": 396,
+      "createdDate": 1776498417050,
+      "modifiedDate": 1776498506910,
+      "sizeInBytes": 444,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -256,7 +256,8 @@
           "wide-page"
         ],
         "enableToc": true,
-        "comments": false
+        "comments": true,
+        "telegram_discussion": "https://t.me/grebenukm/7424"
       }
     }
   }

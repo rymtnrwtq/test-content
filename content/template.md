@@ -15,7 +15,7 @@ socialImage: /path/to/image.png
 cssclasses:
   - wide-page
 enableToc: true
-comments: true
+comments: false
 telegram_discussion: https://t.me/grebenukm/7424
 ---
 
