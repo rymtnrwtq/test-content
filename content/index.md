@@ -1,7 +1,11 @@
 ---
-title: Home
+title: Главная
 ---
 
-# Welcome to Borozdov Blog
+# Добро to Borozdov Blog
 
-Your digital garden is ready. Start adding Markdown files to the `content/` folder.
+Главная страница это
+Хала длолы
+## тшумуткомтш
+умол
+### укотмукот

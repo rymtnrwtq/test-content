@@ -11,10 +11,15 @@
             "id": "a91bb0c4f97a8899",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "index"
             }
           }
         ]
@@ -166,8 +171,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "20902c3e35707629",
+  "active": "34c17633a9e72fdd",
   "lastOpenFiles": [
+    "Без названия/test.md",
     "test.md",
     "nijevijefijnve.md",
     "index.md",
@@ -175,7 +181,6 @@
     "Без названия/evnjkev.md",
     "Без названия",
     "Без названия/nijevijefijnve.md",
-    "Без названия/test.md",
     "Без названия/index.md",
     "Inbox/Без названия 1.md",
     "2 GTD/Daily/2026/апрель/2026-04-17.md",
