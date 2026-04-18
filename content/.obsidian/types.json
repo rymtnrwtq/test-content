@@ -1,0 +1,13 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "started": "date",
+    "finished_book": "date",
+    "date_event": "date",
+    "participants": "multitext",
+    "date": "date",
+    "lastmod": "date"
+  }
+}
