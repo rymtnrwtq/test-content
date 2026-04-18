@@ -26,15 +26,14 @@
             "id": "f748c630289bee15",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "template.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "aFile": "content/.obsidian/workspace.json",
+                "bFile": "content/.obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "template"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ],
@@ -189,15 +188,15 @@
   },
   "active": "f748c630289bee15",
   "lastOpenFiles": [
-    "Заметочки/Без названия.md",
+    "test/evnjkev.md",
     "template.md",
+    "Заметочки/Без названия.md",
     "index.md",
     "Заметочки/test.md",
     "Заметочки",
     "test",
     "Без названия/test.md",
     "Заметочки/nijevijefijnve.md",
-    "test/evnjkev.md",
     "Без названия/evnjkev.md",
     "Без названия/nijevijefijnve.md",
     "Без названия/index.md",
