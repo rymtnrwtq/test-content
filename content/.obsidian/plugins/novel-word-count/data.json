@@ -67,7 +67,37 @@
     "debugMode": false
   },
   "cachedCounts": {
-    "evnjkev.md": {
+    "index.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 12,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.04,
+      "characterCount": 94,
+      "nonWhitespaceCharacterCount": 76,
+      "newlineCount": 10,
+      "readingTimeInMinutes": 0.045283018867924525,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1776495571384,
+      "modifiedDate": 1776496791639,
+      "sizeInBytes": 179,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "title": "Главная"
+      }
+    },
+    "test/evnjkev.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -94,61 +124,7 @@
         "newlineCount": 0
       }
     },
-    "index.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 19,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.06333333333333334,
-      "characterCount": 133,
-      "nonWhitespaceCharacterCount": 109,
-      "newlineCount": 8,
-      "readingTimeInMinutes": 0.07169811320754717,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1776495571384,
-      "modifiedDate": 1776495571384,
-      "sizeInBytes": 133,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "nijevijefijnve.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.006666666666666667,
-      "characterCount": 12,
-      "nonWhitespaceCharacterCount": 11,
-      "newlineCount": 1,
-      "readingTimeInMinutes": 0.007547169811320755,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1776496319312,
-      "modifiedDate": 1776496323800,
-      "sizeInBytes": 12,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "test.md": {
+    "Заметочки/test.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -166,6 +142,60 @@
       "createdDate": 1776496259363,
       "modifiedDate": 1776496263114,
       "sizeInBytes": 4,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Заметочки/Без названия.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1776496967828,
+      "modifiedDate": 1776496967828,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Заметочки/nijevijefijnve.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 12,
+      "nonWhitespaceCharacterCount": 11,
+      "newlineCount": 1,
+      "readingTimeInMinutes": 0.007547169811320755,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1776496319312,
+      "modifiedDate": 1776496323800,
+      "sizeInBytes": 12,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
