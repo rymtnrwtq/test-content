@@ -6,10 +6,5 @@ public
 .DS_Store
 Thumbs.db
 
-# Obsidian plugins & system
-content/.obsidian/plugins/
-content/.obsidian/workspace.json
-content/.obsidian/workspace-mobile.json
-content/.obsidian/workspaces.json
-content/.obsidian/file-recovery/
-content/.obsidian/themes/
+# Obsidian — всё кроме плагина obsidian-git/data.json
+content/.obsidian/
