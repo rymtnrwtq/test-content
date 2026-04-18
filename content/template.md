@@ -16,7 +16,7 @@ cssclasses:
   - wide-page
 enableToc: true
 comments: true
-telegram_discussion: https://t.me/channel/123
+telegram_discussion: https://t.me/grebenukm/7424
 ---
 
 Текст заметки.
