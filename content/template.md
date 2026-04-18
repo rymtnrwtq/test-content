@@ -15,7 +15,8 @@ socialImage: /path/to/image.png
 cssclasses:
   - wide-page
 enableToc: true
-comments: false
+comments: true
+telegram_discussion: https://t.me/channel/123
 ---
 
 Текст заметки.

@@ -3,7 +3,16 @@ import { classNames } from "../util/lang"
 // @ts-ignore
 import script from "./scripts/comments.inline"
 
-type Options = {
+type TelegramOptions = {
+  provider: "telegram"
+  options?: {
+    commentsLimit?: number
+    height?: number | "auto"
+    color?: string
+  }
+}
+
+type GiscusOptions = {
   provider: "giscus"
   options: {
     repo: `${string}/${string}`
@@ -21,18 +30,48 @@ type Options = {
   }
 }
 
+type Options = GiscusOptions | TelegramOptions
+
 function boolToStringBool(b: boolean): string {
   return b ? "1" : "0"
 }
 
+// Extract "channel/postid" from https://t.me/channel/postid
+function parseTelegramUrl(url: string): string | null {
+  const match = url.match(/t\.me\/(.+)/)
+  return match ? match[1] : null
+}
+
 export default ((opts: Options) => {
   const Comments: QuartzComponent = ({ displayClass, fileData, cfg }: QuartzComponentProps) => {
-    // check if comments should be displayed according to frontmatter
     const disableComment: boolean =
       typeof fileData.frontmatter?.comments !== "undefined" &&
       (!fileData.frontmatter?.comments || fileData.frontmatter?.comments === "false")
-    if (disableComment) {
-      return <></>
+    if (disableComment) return <></>
+
+    if (opts.provider === "telegram") {
+      const discussion = fileData.frontmatter?.telegram_discussion as string | undefined
+      if (!discussion) return <></>
+
+      const discussionId = discussion.startsWith("https://")
+        ? parseTelegramUrl(discussion)
+        : discussion
+      if (!discussionId) return <></>
+
+      const limit = opts.options?.commentsLimit ?? 5
+      const color = opts.options?.color
+
+      return (
+        <div class={classNames(displayClass, "telegram-comments")}>
+          <script
+            async
+            src="https://telegram.org/js/telegram-widget.js?23"
+            data-telegram-discussion={discussionId}
+            data-comments-limit={String(limit)}
+            {...(color ? { "data-color": color } : {})}
+          ></script>
+        </div>
+      )
     }
 
     return (
@@ -56,7 +95,9 @@ export default ((opts: Options) => {
     )
   }
 
-  Comments.afterDOMLoaded = script
+  if (opts.provider === "giscus") {
+    Comments.afterDOMLoaded = script
+  }
 
   return Comments
 }) satisfies QuartzComponentConstructor<Options>

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Заметочки/test.md",
+                "file": "template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "template"
             }
           },
           {
@@ -36,8 +36,7 @@
               "title": "Diff: workspace.json  (Working Tree)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,13 +185,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f748c630289bee15",
+  "active": "a91bb0c4f97a8899",
   "lastOpenFiles": [
+    "index.md",
     "test/evnjkev.md",
+    "Заметочки/test.md",
     "template.md",
     "Заметочки/Без названия.md",
-    "index.md",
-    "Заметочки/test.md",
     "Заметочки",
     "test",
     "Без названия/test.md",

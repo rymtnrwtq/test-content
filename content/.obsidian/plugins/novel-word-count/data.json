@@ -105,16 +105,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.006666666666666667,
-      "characterCount": 8,
+      "characterCount": 9,
       "nonWhitespaceCharacterCount": 7,
-      "newlineCount": 1,
+      "newlineCount": 2,
       "readingTimeInMinutes": 0.007547169811320755,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1776496508445,
-      "modifiedDate": 1776496512449,
-      "sizeInBytes": 8,
+      "modifiedDate": 1776497431170,
+      "sizeInBytes": 31,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -122,6 +122,9 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "title": "testttt"
       }
     },
     "Заметочки/test.md": {
@@ -209,17 +212,19 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 35,
+      "wordCount": 2,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.11666666666666667,
-      "characterCount": 323,
-      "nonWhitespaceCharacterCount": 273,
-      "newlineCount": 22,
-      "readingTimeInMinutes": 0.1320754716981132,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 17,
+      "nonWhitespaceCharacterCount": 13,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.007547169811320755,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [
+        "другое-название"
+      ],
       "createdDate": 1776497235601,
       "modifiedDate": 1776497235601,
       "sizeInBytes": 396,
@@ -230,6 +235,28 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "title": "Заголовок заметки",
+        "description": "Краткое описание для превью и SEO",
+        "date": "2026-04-18",
+        "lastmod": "2026-04-18",
+        "draft": false,
+        "tags": [
+          "тег1",
+          "тег2"
+        ],
+        "aliases": [
+          "другое-название"
+        ],
+        "permalink": "custom-url",
+        "lang": "ru-RU",
+        "socialImage": "/path/to/image.png",
+        "cssclasses": [
+          "wide-page"
+        ],
+        "enableToc": true,
+        "comments": false
       }
     }
   }
