@@ -7,7 +7,7 @@ function loadTelegramWidget(container: HTMLElement) {
   const color = container.dataset.color
 
   const isDark = document.documentElement.getAttribute("saved-theme") === "dark"
-  const themeColor = isDark ? "7b97aa" : "284b63"
+  const themeColor = isDark ? "FFFFFF" : "284b63"
 
   const script = document.createElement("script")
   script.async = true
