@@ -8,37 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aa1f10c54b585a5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Без названия/index.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
             "id": "a91bb0c4f97a8899",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Без названия/test.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "test"
+              "title": "Новая вкладка"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,8 +166,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "34c17633a9e72fdd",
+  "active": "20902c3e35707629",
   "lastOpenFiles": [
+    "test.md",
+    "nijevijefijnve.md",
+    "index.md",
+    "evnjkev.md",
     "Без названия/evnjkev.md",
     "Без названия",
     "Без названия/nijevijefijnve.md",
@@ -212,9 +195,6 @@
     "1 Content/Events/Альфа конфа 2025 Новосибирск/Владимир Верхошинский/Нанимайте сильных, расставайтесь со слабыми.md",
     "1 Content/Events/Альфа конфа 2025 Новосибирск/Владимир Верхошинский/Миром правит миром не iq, а eq.md",
     "1 Content/Events/Альфа конфа 2025 Новосибирск/Владимир Верхошинский/Кто знает Усейна Болта.md",
-    "1 Content/Events/Альфа конфа 2025 Новосибирск/Владимир Верхошинский/Завоевывая авторитет, расширяйте сеть контактов.md",
-    "1 Content/Events/Альфа конфа 2025 Новосибирск/Владимир Верхошинский/В дорогих машинах разбирается кто не может себе их купить.md",
-    "1 Content/Events/Альфа конфа 2025 Новосибирск/Владимир Верхошинский/Будьте заметны.md",
     "2 GTD/Daily/2026/апрель",
     "1 Content/Events/Третья встреча поколение Марей",
     "3 Data/1 Project/Поколение",
