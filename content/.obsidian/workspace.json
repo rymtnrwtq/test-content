@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "4eddefa8f7e1fa0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "abd998d4324c56bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa1f10c54b585a5e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "56bb3b018a40506f",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcf7e3dd3f0179d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34c17633a9e72fdd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "080467846efe3bd8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "угол",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 384.50390243530273
+  },
+  "right": {
+    "id": "0e91f207fca944aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "42986078bb3b58b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45b3d7a8785e4d04",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Inbox/Встреча 3 Марей.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Встреча 3 Марей"
+            }
+          },
+          {
+            "id": "0c9535972b4b886c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1 Content/Events/Альфа конфа 2025 Новосибирск/Владимир Верхошинский/Тянитесь к сильным и большим людям.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Тянитесь к сильным и большим людям"
+            }
+          },
+          {
+            "id": "9f772045cbdcf196",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3 Data/Address/Новосибирск/People/Дом Котенок.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Дом Котенок"
+            }
+          },
+          {
+            "id": "d0a44f84e84e4758",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 414.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "random-note:Открыть случайную заметку": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "aa1f10c54b585a5e",
+  "lastOpenFiles": [
+    "index.md",
+    "Inbox/Без названия 1.md",
+    "2 GTD/Daily/2026/апрель/2026-04-17.md",
+    "Inbox/Без названия 2222.md",
+    "Inbox/Без названия.md",
+    "2 GTD/Daily/2026/апрель/2026-04-15.md",
+    "2 GTD/Daily/2026/апрель/2026-04-12.md",
+    "2 GTD/Daily/2026/апрель/2026-04-14.md",
+    "2 GTD/Daily/2026/апрель/2026-04-09.md",
+    "2 GTD/Daily/2026/апрель/2026-04-10.md",
+    "2 GTD/Daily/2026/апрель/2026-04-11.md",
+    "2 GTD/Daily/2026/апрель/2026-04-13.md",
+    "Inbox/Скрининг будущие даты.md",
+    "Inbox/Без названия 12222.md",
+    "Inbox/Курсовую сделать.md",
+    "1 Content/Events/Альфа конфа 2025 Новосибирск/Владимир Верхошинский/Тянитесь к сильным и большим людям.md",
+    "1 Content/Events/Альфа конфа 2025 Новосибирск/Владимир Верхошинский/Нанимайте сильных, расставайтесь со слабыми.md",
+    "1 Content/Events/Альфа конфа 2025 Новосибирск/Владимир Верхошинский/Миром правит миром не iq, а eq.md",
+    "1 Content/Events/Альфа конфа 2025 Новосибирск/Владимир Верхошинский/Кто знает Усейна Болта.md",
+    "1 Content/Events/Альфа конфа 2025 Новосибирск/Владимир Верхошинский/Завоевывая авторитет, расширяйте сеть контактов.md",
+    "1 Content/Events/Альфа конфа 2025 Новосибирск/Владимир Верхошинский/В дорогих машинах разбирается кто не может себе их купить.md",
+    "1 Content/Events/Альфа конфа 2025 Новосибирск/Владимир Верхошинский/Будьте заметны.md",
+    "1 Content/Events/Онлайн встреча Сметнёв/Накрутка отзывов.md",
+    "1 Content/Events/Онлайн встреча Сметнёв/Открытая встреча с Денисом Сметнёвым.md",
+    "1 Content/Events/Онлайн встреча Сметнёв/Удалить плохой отзыв.md",
+    "1 Content/Events/Концерт Вольфганг Амадей Моцарт 2026/Концерт Вольфганг Амадей Моцарт.md",
+    "2 GTD/Daily/2026/апрель",
+    "1 Content/Events/Третья встреча поколение Марей",
+    "3 Data/1 Project/Поколение",
+    "3 Data/1 Project/Военкомат",
+    "3 Data/1 Project/SCA Ассоциация",
+    "3 Data/Address/Томск",
+    "3 Data/People/Acquaintance",
+    "3 Data/People/Figure",
+    "3 Data/People/Luminary",
+    "3 Data/Address/Москва",
+    "Files/Pasted image 20250825150950.png",
+    "Files/Pasted image 20250805083314.png",
+    "Files/Pasted image 20250628154622.png",
+    "Без названия.canvas",
+    "Files/Pasted image 20250509105128.png",
+    "Files/Pasted image 20250508192714.png",
+    "Files/Pasted image 20250423135514.png",
+    "Files/Pasted image 20250422152105.png",
+    "Files/Pasted image 20250422120354.png",
+    "Files/Pasted image 20250422120348.png",
+    "Telegram/photos/photo_900709433_0 - 20250421131025096.jpg"
+  ]
+}
